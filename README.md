@@ -37,7 +37,7 @@ Acme::Inkling is a Perl 6 module that allows Inkling to eat away source code.
 
 When you load this modules, This project is eaten away by Inkling. So you can 'say' only Inkling language, and you can only 'die' as Inkling.
 
-This project is just a joke. 'Inkling' and 'Splatoon' is copyrighted by Nintendo Co., Ltd.
+This project is just a joke. 'Inkling' and 'Splatoon' are copyrighted by Nintendo Co., Ltd.
 
 AUTHOR
 ======
