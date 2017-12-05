@@ -17,7 +17,7 @@ sub say($value) is export {
   print("Gung-we-wy!\n");
 }
 
-sub die() is export {
+sub die($value?) is export {
   print("Uwaaaw!\n");
 }
 
