@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/debility/p6-Acme-Inkling.svg?branch=master)](https://travis-ci.org/debility/p6-Acme-Inkling)
+
 NAME
 ====
 
