@@ -25,7 +25,7 @@ sub die($value?) is export {
 
 =head1 NAME
 
-Acme::Inkling - Inkling eat away your project
+Acme::Inkling - Inkling eat away your project.
 
 =head1 SYNOPSIS
 
